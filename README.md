@@ -1,6 +1,33 @@
 # testRepo
 this is our first repo 
 
-this is new line repo 
 
-class abc new
+# myHeading
+## subHeading
+### subheading 3rd level
+###### header
+
+**Bold**
+
+*italic text*
+
+***italic and bold text***
+
+1. first element
+2. sec element 
+3. third ele
+
+- first element
+- sec element
+
+
+
+* first list element
+* second element 
+
+[click me](https://www.
+markdownguide.org/cheat-sheet)
+
+
+![myImage](https://tse3.mm.bing.net/th?id=OIP.L3iLuXULE1kiRl2k3ScnQwHaE8&pid=Api&P=0&w=245&h=163)
+
