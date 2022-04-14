@@ -25,8 +25,7 @@ this is our first repo
 * first list element
 * second element 
 
-[click me](https://www.
-markdownguide.org/cheat-sheet)
+
 
 
 ![myImage](https://tse3.mm.bing.net/th?id=OIP.L3iLuXULE1kiRl2k3ScnQwHaE8&pid=Api&P=0&w=245&h=163)
